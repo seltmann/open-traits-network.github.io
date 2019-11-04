@@ -11,22 +11,22 @@ Please update the template below and click "Submit" to let us know you'd like to
 ```
 ---
 layout: member
-id: rachael-v-gallagher
-name: Rachael V Gallagher
-email: rachael.gallagher@mq.edu.au
-homepage: http://example.org
-lat: -33.77403
-long: 151.115978
-affiliation: Department of Biological Sciences, Macquarie University, Sydney, NSW, Australia 
-github: rachaelgallagher
+id: katja-c-seltmann
+name: Katja C. Seltmann
+email: seltmann@ccber.ucsb.edu
+homepage: https://www.ccber.ucsb.edu/
+lat: 34.419636
+long: -119.854645
+affiliation: Cheadle Center for Biodiversity and Ecological Restoration, University of California, Santa Barbara
+github: seltmann
 ---
 
-Rachael is a plant ecologist based in Sydney Australia. 
+Katja is an entomologist, data scientist and media artist based in Santa Barbara, California, United States. 
 
 ## Collaboration statement
-I enjoy working on applied problems in plant conservation using spatial analyses and traits. My primary (soon to be) open trait dataset is AusTraits - a curated dataset on the traits of Australian plants. This resource was created with harmonisation pipeline created by my collaborator Daniel Falster.
+I enjoy investigating interactions between organisms, especially insects. I direct the UCSB Natural History Collections and our biotic interaction data is available through GloBI (https://www.globalbioticinteractions.org). We also include other trait data with our specimens through images or in the shared Darwin Core Archive.
 
-I can offer expertise in workflows for cleaning occurrence data and combining with trait data. I am also happy to help connect people together around traits by running working groups, hosting visitors in my lab, organising symposia at conferences and maintaining our Open Traits website.
+I can offer expertise in natural history collections, entomology and ontology. I am interested in connecting with others who want to share museum specimen trait data and I am happy to help connect people through organized symposia, our Open Traits website, and posters/presentations at meetings.
 
 
 ```
